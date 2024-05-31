@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "lithe-vector-424915-f8",
-  "private_key_id": "8c3d292470d2b7a890957cc588430e2c61b6cf73",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWIdBrSgUIh+hl\n74JOIW0c9EcDLpAVdYAmV/HiF76vWNB595yoCGYZ50eKC7QgTSM1y6YFAOvGqu4d\nW35vTLLA90paczJHNYdecbIJMGGlAXfmTkD3zkXC+Nt+4ZkPX2wflht0dAjlabbW\n7JsQJItoNSktar/yiiHdDCnUX1RYYMG4SD8JM+Wj+E8SRSOqywL6+nlNaN0oX6My\nxTCvHdzmOwlvsyjzNr0eXwrW7RwQDU8jVLsUyiWkhlLdJvpZVxsTixILouMtB5dP\nRWoowmVtHkIP8WwjAfdalauydprQtxgb4RO4asG/vMzUn/a5dh+ZZOenSF8QuwM+\nNbk4FU5tAgMBAAECggEAF6ba1WGde7XopWBr+q2g1pAOy0Wt3t5Afju8ORZurAHk\niSGgrpi65QU8TChYctxCVYioeP4DN57yt9Bpfz6wBzYUAuNIJusSiDaJDTsdq0hQ\nZ40Lil5A1gp/KB0gDGgkUmWAo9TF6h0f985g9EqtEUtp6x0oQCXMxr83XECpWYIm\nugRySA8hW94SQZzroxI1NqDdXLs4r4c+5efvOBlQMgFEaXiz7V5sHBYaLdS0WOg2\n5kgNF1KYDPDGPiwHcHy2mhi6MQjQsbbkKbq56R5hRS6FIYz6OlFAAh0mm+RCzsaw\nEBS1U+f0SyUFaK7rwfuBKGuxLiEPDUT06YvaoL5QywKBgQDsbJUliz5sNvB766r2\nbQNV2sB2P9Ze6ROdtBVkwBpHXqGBSc1WTdOh7p8YFNYTqAGErh3mHT2DPEjM4WIF\n9bFZwPDvWOWq5FoEBdsPkKZYXwtCbFM2Us8r6achBRVAzW4Q+THlqj94vG+XaCtA\nMB5BdnDrUNABKr+KzwNYzu3/cwKBgQDn3LZ6ZzjxBh2TYCh7VsPLNBxUUuhruZXD\n/m4quNJ5vUdpadjggy1PqWWzHZs/61p6f4fZ7y9XMmFIUifuUVW7tNV6sz7sjJHO\ndyzwHD1r78Shgd1GBIJ4zeT2NVhMDF5ILHV/SkkCF1Yf5x/yFp9OOlur+L62ecKA\nysnC5fhCnwKBgQCtrdajDfd9Z56iai3deZfJqjlYpOzGLFLMt05ABR9I7quWXrEJ\nhYLCopkdB7F8Hx9+aKpuMWzOy6pvV+K6nhL67FISgiu1rqqx6dtTQ9/va2LKGOnI\nLm0ixTKRfzptsHv63BVbsgWOnF8dyth6/t47GNc7BtLHCLBNOGYtB1avIQKBgERA\nuIa3tA9fWX10pPYJyIEcyeoYrcpoSynyz8NLvMmRamAhhHIyqzf0Cbf8UyMxyOSe\nfgMtYaYtcm2zoYWJ887ZoK4J7c/8YT+B3XyhE4OehSd17wkZcr7U/T1s3p0kVuyw\nCbZ6y5sN+5BQnRrKhgKlMy8gfiOBHDyFdXcl8zrJAoGATMKcln7qKnfVC3L6vvcX\ntTMaf1FHSeIBcflYd/I+JHRfile7FnRqlJPv+TetT6hFKVyzk7DVdBA4BI6VFP36\nFPM1X/ob1d7C5Pt7IAzYQuAgCdZFGJXQNKbcGG4T5z6LsJ6W+jXyycrMCOujWlSZ\n8fyG9MOxl0d2eqGewzxgolw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "demo-bucket@lithe-vector-424915-f8.iam.gserviceaccount.com",
-  "client_id": "111945368564660304952",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-bucket%40lithe-vector-424915-f8.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+
 }
